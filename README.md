@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**ilquadernodellaprof/ilquadernodellaprof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Lucia and I'm a Middle School LA/SS teacher and a self-taught DevOps Practitioner, specialised in accessibility, GDPR compliance, and UX design.
 
-Here are some ideas to get you started:
+📬 **Site and contacts**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My site is hosted by statichost.eu and it's live at [ilquadernodellaprof.it](https://ilquadernodellaprof.it/).
+
+You can either contact me through the [contact page](https://ilquadernodellaprof.it/about/scrivimi) on my site or send an e-mail at luciacapurri AT *my apex domain*. The page is in Italian, but feel free to write in English!
+
+
+🗺️ **Roadmap and License**
+
+I'm currently working on the backend of my application, designed in Go to let my pupils enjoy an animated AI assistant and have a place to exercise at home.
+
+⚖️ My educational **content** is already released under a **CC BY-NC-SA License**.
+
+💾 **Code** is planned for **future release** under a **GNU license** (currently balancing this with the start of the school year!)
+
+🐣 **Story of an ugly duckling**
+
+I started coding when *frameset* was still a thing and I was a middle schooler myself, but late 2000s forums were too *poisonous* for me to stay invested.
+
+I got serious about it recently, when the advent of AI-assisted coding helped me overcome the fear of missing a closing tag. I still do that.
+
+I love to tell my students that we "learn *by* mistakes" and I promise I will make a lot of them - feel free to tell me when you find one, but please be nice: I'm Italian and I can get *a bit* passionate.
+
+Have fun!
