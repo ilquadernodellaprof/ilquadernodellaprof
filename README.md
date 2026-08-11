@@ -3,14 +3,14 @@
 My name is Lucia and I'm a Middle School LA/SS teacher and a self-taught DevOps Practitioner, specialised in accessibility, GDPR compliance, and UX design.
 
 
-📬 **Site and contacts**
+### 📬 **Site and contacts**
 
 My site is hosted by statichost.eu and it's live at [ilquadernodellaprof.it](https://ilquadernodellaprof.it/).
 
 You can either contact me through the [contact page](https://ilquadernodellaprof.it/about/scrivimi) on my site or send an e-mail at luciacapurri AT *my apex domain*. The page is in Italian, but feel free to write in English!
 
 
-🗺️ **Roadmap and License**
+### 🗺️ **Roadmap and License**
 
 I'm currently working on the backend of my application, designed in Go to let my pupils enjoy an animated AI assistant and have a place to exercise at home.
 
@@ -19,7 +19,7 @@ I'm currently working on the backend of my application, designed in Go to let my
 💾 **Code** is planned for **future release** under a **GNU license** (currently balancing this with the start of the school year!)
 
 
-🐣 **Story of an ugly duckling**
+### 🐣 **Story of an ugly duckling**
 
 I started coding when *frameset* was still a thing and I was a middle schooler myself, but late 2000s forums were too *poisonous* for me to stay invested.
 
