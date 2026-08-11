@@ -2,6 +2,7 @@
 
 My name is Lucia and I'm a Middle School LA/SS teacher and a self-taught DevOps Practitioner, specialised in accessibility, GDPR compliance, and UX design.
 
+
 📬 **Site and contacts**
 
 My site is hosted by statichost.eu and it's live at [ilquadernodellaprof.it](https://ilquadernodellaprof.it/).
@@ -16,6 +17,7 @@ I'm currently working on the backend of my application, designed in Go to let my
 ⚖️ My educational **content** is already released under a **CC BY-NC-SA License**.
 
 💾 **Code** is planned for **future release** under a **GNU license** (currently balancing this with the start of the school year!)
+
 
 🐣 **Story of an ugly duckling**
 
