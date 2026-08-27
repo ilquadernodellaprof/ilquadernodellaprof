@@ -12,7 +12,7 @@ You can either contact me through the [contact page](https://ilquadernodellaprof
 
 ### 🗺️ **Roadmap and License**
 
-I'm currently working on the backend of my application, designed in Go to let my pupils enjoy an animated AI assistant and have a place to exercise at home.
+I'm currently refining and testing my Go pipeline to release it in a public repository under a GNU license.
 
 ⚖️ My educational **content** is already released under a **CC BY-NC-SA License**.
 
