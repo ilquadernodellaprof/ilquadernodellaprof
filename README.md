@@ -12,12 +12,9 @@ You can either contact me through the [contact page](https://ilquadernodellaprof
 
 ### 🗺️ **Roadmap and License**
 
-I'm currently refining and testing my Go backend to release it in [this public repository](https://github.com/ilquadernodellaprof/duckline/) under a GNU license.
+I'm currently refining and testing my Go backend. You can find the **AGPL-licensed** code in [in this public repository](https://github.com/ilquadernodellaprof/duckline/).
 
 ⚖️ My educational **content** is already released under a **CC BY-NC-SA License**.
-
-💾 **Code** is planned for **future release** under a **GNU license** (currently balancing this with the start of the school year!)
-
 
 ### 🐣 **Story of an ugly duckling**
 
