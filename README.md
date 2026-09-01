@@ -10,11 +10,11 @@ My site is hosted by statichost.eu and it's live at [ilquadernodellaprof.it](htt
 You can either contact me through the [contact page](https://ilquadernodellaprof.it/about/scrivimi) on my site or send an e-mail at luciacapurri AT *my apex domain*. The page is in Italian, but feel free to write in English!
 
 
-### 🗺️ **Roadmap and License**
+### 🗺️ **Roadmap and License ⚖️**
 
 I'm currently refining and testing my Go backend. You can find the **AGPL-licensed** code in [in this public repository](https://github.com/ilquadernodellaprof/duckline/).
 
-⚖️ My educational **content** is already released under a **CC BY-NC-SA License**.
+My educational **content** is released under a **CC BY-NC-SA License**.
 
 ### 🐣 **Story of an ugly duckling**
 
