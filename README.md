@@ -14,7 +14,7 @@ You can either contact me through the [contact page](https://ilquadernodellaprof
 
 I'm currently refining and testing a Ruby parser for Lotus legacy formats.
 
-- You can find **AGPL-licensed** Go backend in [this public repository](https://github.com/ilquadernodellaprof/duckline/).
+- You can find my **AGPL-licensed** Go backend in [this public repository](https://github.com/ilquadernodellaprof/duckline/).
 
 - My educational **content** is released under a **CC BY-NC-SA License**.
 
